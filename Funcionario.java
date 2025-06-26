@@ -14,6 +14,7 @@ public class Funcionario {
 	
 	
 	public Funcionario() {
+		system.out.println("Teste de pull");
 	}
 	
 	
